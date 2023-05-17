@@ -1,0 +1,3 @@
+-- F A R O U Q
+SHOW DATABASES;
+
